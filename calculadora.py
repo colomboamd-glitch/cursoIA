@@ -5,4 +5,4 @@ numeroDois = int(input("digite o segundo numero "))
 total = numeroUm + numeroDois
 
 
-print ("valor total {numeroUm}")
+print (f"o resultado entre {numeroUm} e {numeroDois} é: ")
