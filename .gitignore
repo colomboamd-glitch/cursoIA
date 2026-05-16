@@ -1,2 +1,5 @@
 .env
 /.venv
+/temo
+registros.db
+
