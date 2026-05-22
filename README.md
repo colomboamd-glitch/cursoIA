@@ -382,4 +382,4 @@ Ideal para:
 - Pesquisa acadêmica
 - Chatbots
 - Agentes autônomos
-- Sistemas RAG simples
+- Sistemas RAG simples# Pratica-Python
